@@ -6,9 +6,9 @@
 
 **Specialized DSP & FPGA Radar Design House**
 
-[![Website](https://img.shields.io/badge/Web-apexia.io-dc2626?style=for-the-badge)](https://apexia.io)
-[![Email](https://img.shields.io/badge/Contact-contact%40apexia.io-db2777?style=for-the-badge)](mailto:contact@apexia.io)
-[![Location](https://img.shields.io/badge/HQ-Palm%20Bay%2C%20FL-ec4899?style=for-the-badge)](https://apexia.io)
+[![Website](https://img.shields.io/badge/Web-apexia--us.com-dc2626?style=for-the-badge)](https://apexia-us.com)
+[![Email](https://img.shields.io/badge/Contact-Conner%40apexia--us.com-db2777?style=for-the-badge)](mailto:Conner@apexia-us.com)
+[![Location](https://img.shields.io/badge/HQ-Palm%20Bay%2C%20FL-ec4899?style=for-the-badge)](https://apexia-us.com)
 
 </div>
 
@@ -37,6 +37,6 @@ We take on aerospace, defense, and commercial RF challenges — architecture con
 
 <div align="center">
 
-**[apexia.io](https://apexia.io)** · **[contact@apexia.io](mailto:contact@apexia.io)**
+**[apexia-us.com](https://apexia-us.com)** · **[Conner@apexia-us.com](mailto:Conner@apexia-us.com)**
 
 </div>
